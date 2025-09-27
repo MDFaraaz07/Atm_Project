@@ -24,6 +24,38 @@ It supports **account creation, authentication, deposits, withdrawals, transfers
 
 ---
 
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run the app:
+
+python atm.py
+
+📸 Screenshots
+
+(Add screenshots here later, e.g. login screen, dashboard, transaction history)
+
+📖 Usage
+
+Launch the app with python atm.py.
+
+Create a new account (you’ll get an account ID).
+
+Sign in with account ID and PIN.
+
+Perform transactions and track history.
+
+🛠 Database
+
+The app uses SQLite (atm.db file).
+
+Tables:
+
+users → stores user details & balances
+
+transactions → stores all user transactions
 ## 📦 Installation
 
 Clone this repository:
