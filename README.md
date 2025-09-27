@@ -33,11 +33,8 @@ Run the app:
 
 python atm.py
 
-📸 Screenshots
 
-(Add screenshots here later, e.g. login screen, dashboard, transaction history)
-
-📖 Usage
+## 📖 Usage
 
 Launch the app with python atm.py.
 
